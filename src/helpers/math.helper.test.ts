@@ -63,6 +63,3 @@ describe('multiply', () => {
     expect(result).toBe(a * b)
     });
 }); 
-
-
-
